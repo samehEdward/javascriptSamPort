@@ -42,3 +42,9 @@ for(let list of groceryList)
         console.log(one);
     }
 }
+
+// let number = [7, 3, 111, 773, 173, 137];
+
+// let maximum = Math.max(...number);
+
+// console.log(maximum);
